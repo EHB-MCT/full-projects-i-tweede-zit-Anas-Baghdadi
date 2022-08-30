@@ -134,35 +134,13 @@ header p {
 
 .main h1 {
     font-family: 'Hind', sans-serif;
-    font-size: 40px;
+    font-size: 50px;
     color: #2a406a;
     border-bottom: 1px solid #2a406a;
 }
 main h2{
     color: #fff;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 
 
 
@@ -227,7 +205,7 @@ ul {
 }
 
 .footer-col ul li a:hover {
-    color: #24262b;
+    /* color: #24262b; */
     padding-left: 8px;
 }
 
